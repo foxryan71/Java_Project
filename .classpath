@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="fox.bcs345.hwk.purchases.business/src"/>
+	<classpathentry kind="src" path="fox.bcs345.hwk.purchases.presentation/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="fox.bcs345.hwk.purchases.business/bin"/>
+</classpath>
